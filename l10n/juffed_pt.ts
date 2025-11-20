@@ -40,7 +40,7 @@
     </message>
     <message>
         <source>Use API files</source>
-        <translation>Utilizar ficheiros API</translation>
+        <translation>Utilizar arquivos API</translation>
     </message>
     <message>
         <source>Replace word</source>
@@ -82,11 +82,11 @@
     </message>
     <message>
         <source>The file &apos;%1&apos; was modified by external program.</source>
-        <translation>O ficheiro %1 foi modificado por um programa externo.</translation>
+        <translation>O arquivo %1 foi modificado por um programa externo.</translation>
     </message>
     <message>
         <source>Save current</source>
-        <translation>Guardar atual</translation>
+        <translation>Salvar atual</translation>
     </message>
     <message>
         <source>Reload from disk</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>The file &apos;%1&apos; was deleted or renamed.</source>
-        <translation>O ficheiro %1 foi eliminado ou renomeado.</translation>
+        <translation>O arquivo %1 foi eliminado ou renomeado.</translation>
     </message>
 </context>
 <context>
@@ -168,7 +168,7 @@ avanço em vez de remover o espaço em branco</translation>
     </message>
     <message>
         <source>File name patterns:</source>
-        <translation>Padrões para nomes de ficheiro:</translation>
+        <translation>Padrões para nomes de arquivo:</translation>
     </message>
     <message>
         <source>+</source>
@@ -184,7 +184,7 @@ avanço em vez de remover o espaço em branco</translation>
     </message>
     <message>
         <source>New file name pattern</source>
-        <translation>Padrão do novo nome de ficheiro</translation>
+        <translation>Padrão do novo nome de arquivo</translation>
     </message>
     <message>
         <source>Information</source>
@@ -192,7 +192,7 @@ avanço em vez de remover o espaço em branco</translation>
     </message>
     <message>
         <source>No file type is selected</source>
-        <translation>Não escolheu o tipo de ficheiro</translation>
+        <translation>Não escolheu o tipo de arquivo</translation>
     </message>
     <message>
         <source>New first line pattern</source>
@@ -421,11 +421,11 @@ Você quer salvar as alterações?</translation>
     </message>
     <message>
         <source>Copy file name to clipboard</source>
-        <translation>Copiar nome de ficheiro para a área de transferência</translation>
+        <translation>Copiar nome de arquivo para a área de transferência</translation>
     </message>
     <message>
         <source>Copy full file path to clipboard</source>
-        <translation>Copiar caminho do ficheiro para a área de transferência</translation>
+        <translation>Copiar caminho do arquivo para a área de transferência</translation>
     </message>
     <message>
         <source>Copy file directory path to clipboard</source>
@@ -444,7 +444,7 @@ Você quer salvar as alterações?</translation>
     <name>JuffEd</name>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Ficheiro</translation>
+        <translation>&amp;Arquivo</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -472,11 +472,11 @@ Você quer salvar as alterações?</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;Guardar</translation>
+        <translation>&amp;Salvar</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation>Guardar como</translation>
+        <translation>Salvar como</translation>
     </message>
     <message>
         <source>Close</source>
@@ -532,7 +532,7 @@ Você quer salvar as alterações?</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Definições</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>About</source>
@@ -544,7 +544,7 @@ Você quer salvar as alterações?</translation>
     </message>
     <message>
         <source>Recent files</source>
-        <translation>Ficheiros recentes</translation>
+        <translation>Arquivos recentes</translation>
     </message>
     <message>
         <source>New session</source>
@@ -564,7 +564,7 @@ Você quer salvar as alterações?</translation>
     </message>
     <message>
         <source>Save all</source>
-        <translation>Guardar tudo</translation>
+        <translation>Salvar tudo</translation>
     </message>
     <message>
         <source>&amp;Reload</source>
@@ -580,11 +580,11 @@ Você quer salvar as alterações?</translation>
     </message>
     <message>
         <source>Save session as...</source>
-        <translation>Guardar sessão como...</translation>
+        <translation>Salvar sessão como...</translation>
     </message>
     <message>
         <source>Go to file</source>
-        <translation>Ir para o ficheiro</translation>
+        <translation>Ir para o arquivo</translation>
     </message>
     <message>
         <source>Zoom In</source>
@@ -600,7 +600,7 @@ Você quer salvar as alterações?</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation>Ecrã completo</translation>
+        <translation>Tela cheia</translation>
     </message>
     <message>
         <source>&amp;Search</source>
@@ -636,7 +636,7 @@ Você quer salvar as alterações?</translation>
     </message>
     <message>
         <source>File full name</source>
-        <translation>Nome completo do ficheiro</translation>
+        <translation>Nome completo do arquivo</translation>
     </message>
     <message>
         <source>Current character set</source>
@@ -648,11 +648,11 @@ Você quer salvar as alterações?</translation>
     </message>
     <message>
         <source>File &apos;%1&apos; doesn&apos;t exist</source>
-        <translation>O ficheiro %1 não existe</translation>
+        <translation>O arquivo %1 não existe</translation>
     </message>
     <message>
         <source>File &apos;%1&apos; is read-only</source>
-        <translation>O ficheiro %1 é só para leitura</translation>
+        <translation>O arquivo %1 é só para leitura</translation>
     </message>
     <message>
         <source>Lines: %1</source>
@@ -681,7 +681,7 @@ Você quer salvar as alterações?</translation>
         <source> has been modified.
 Do you want to save your changes?</source>
         <translation> foi modificado.
-Gostaria de guardar as alterações?</translation>
+Gostaria de salvar as alterações?</translation>
     </message>
     <message>
         <source>Close document</source>
@@ -689,19 +689,19 @@ Gostaria de guardar as alterações?</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation>Abrir ficheiro</translation>
+        <translation>Abrir arquivo</translation>
     </message>
     <message>
         <source>Open files</source>
-        <translation>Abrir ficheiros</translation>
+        <translation>Abrir arquivos</translation>
     </message>
     <message>
         <source>Save %1 as...</source>
-        <translation>Guardar %1 como...</translation>
+        <translation>Salvar %1 como...</translation>
     </message>
     <message>
         <source>Rename file</source>
-        <translation>Renomear ficheiro</translation>
+        <translation>Renomear arquivo</translation>
     </message>
     <message>
         <source>Input new file name:</source>
@@ -712,7 +712,7 @@ Gostaria de guardar as alterações?</translation>
     <name>JumpToFileDlg</name>
     <message>
         <source>Select file</source>
-        <translation>Selecionar ficheiro</translation>
+        <translation>Selecionar arquivo</translation>
     </message>
 </context>
 <context>
@@ -739,15 +739,15 @@ Gostaria de guardar as alterações?</translation>
     </message>
     <message>
         <source>Use existing instance of application when open files</source>
-        <translation>Ao abrir ficheiros, utilizar a instância aberta</translation>
+        <translation>Ao abrir arquivos, utilizar a instância aberta</translation>
     </message>
     <message>
         <source>Open files in existing instance</source>
-        <translation>Abrir ficheiros na instância aberta</translation>
+        <translation>Abrir arquivos na instância aberta</translation>
     </message>
     <message>
         <source>Make backup copy when save file</source>
-        <translation>Criar cópia de segurança ao guardar o ficheiro</translation>
+        <translation>Criar cópia de segurança ao salvar o arquivo</translation>
     </message>
     <message>
         <source>Save session when close</source>
@@ -767,7 +767,7 @@ Gostaria de guardar as alterações?</translation>
     </message>
     <message>
         <source>Saving</source>
-        <translation>Guardar</translation>
+        <translation>Salvando</translation>
     </message>
     <message>
         <source>Strip trailing spaces</source>
@@ -801,7 +801,7 @@ Gostaria de guardar as alterações?</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation>Abrir ficheiro</translation>
+        <translation>Abrir arquivo</translation>
     </message>
     <message>
         <source>Remove from project</source>
@@ -1226,11 +1226,11 @@ Continuar do começo?</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Carácter</translation>
+        <translation>Caracter</translation>
     </message>
     <message>
         <source>Unfinished Character</source>
-        <translation>Carácter não terminado</translation>
+        <translation>Caracter não terminado</translation>
     </message>
     <message>
         <source>String</source>
@@ -1289,7 +1289,7 @@ Continuar do começo?</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Carácter</translation>
+        <translation>Caracter</translation>
     </message>
     <message>
         <source>String</source>
@@ -1419,7 +1419,7 @@ Continuar do começo?</translation>
     </message>
     <message>
         <source>User Defined</source>
-        <translation>Definido pelo utilizador</translation>
+        <translation>Definido pelo usuário</translation>
     </message>
     <message>
         <source>Section Definition</source>
@@ -1466,7 +1466,7 @@ Continuar do começo?</translation>
     <name>SciDoc</name>
     <message>
         <source>Can&apos;t open file for writing</source>
-        <translation>Não foi possível abrir o ficheiro</translation>
+        <translation>Não foi possível abrir o arquivo</translation>
     </message>
 </context>
 <context>
@@ -1577,7 +1577,7 @@ Continuar do começo?</translation>
     </message>
     <message>
         <source>File types</source>
-        <translation>Tipos de ficheiro</translation>
+        <translation>Tipos de arquivo</translation>
     </message>
     <message>
         <source>Current line highlighting color</source>
@@ -1589,7 +1589,7 @@ Continuar do começo?</translation>
     </message>
     <message>
         <source>Indents color</source>
-        <translation>Cor dos avanços</translation>
+        <translation>Cor dos recuos</translation>
     </message>
     <message>
         <source>Whitespace symbols color</source>
@@ -1669,7 +1669,7 @@ Continuar do começo?</translation>
     <name>SelectFilesDlg</name>
     <message>
         <source>Select files</source>
-        <translation>Selecionar ficheiros</translation>
+        <translation>Selecionar arquivos</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -1677,11 +1677,11 @@ Continuar do começo?</translation>
     </message>
     <message>
         <source>Save selected</source>
-        <translation>Guardar selecionados</translation>
+        <translation>Salvar selecionados</translation>
     </message>
     <message>
         <source>Do not save</source>
-        <translation>Não guardar</translation>
+        <translation>Não salvar</translation>
     </message>
     <message>
         <source>Do not close</source>
@@ -1689,18 +1689,18 @@ Continuar do começo?</translation>
     </message>
     <message>
         <source>Please select files you&apos;d like to save.</source>
-        <translation>Selecione os ficheiros que quer guardar.</translation>
+        <translation>Selecione os arquivos que quer salvar.</translation>
     </message>
     <message>
         <source>Save all</source>
-        <translation>Guardar todos</translation>
+        <translation>Salvar todos</translation>
     </message>
 </context>
 <context>
     <name>SessionDlg</name>
     <message>
         <source>Session manager</source>
-        <translation>Gestor de sessões</translation>
+        <translation>Gerenciador de sessões</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1723,7 +1723,7 @@ Continuar do começo?</translation>
     <name>SettingsDlg</name>
     <message>
         <source>Settings</source>
-        <translation>Definições</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1845,7 +1845,7 @@ Continuar do começo?</translation>
     </message>
     <message>
         <source>East</source>
-        <translation>Este</translation>
+        <translation>Leste</translation>
     </message>
     <message>
         <source>Toolbar style</source>
@@ -1853,15 +1853,15 @@ Continuar do começo?</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation>Ecrã completo</translation>
+        <translation>Tela cheia</translation>
     </message>
     <message>
         <source>Hide tool bar in fullscreen</source>
-        <translation>Ocultar barra de ferramentas se em ecrã completo</translation>
+        <translation>Ocultar barra de ferramentas se estiver em tela cheia</translation>
     </message>
     <message>
         <source>Hide status bar in fullscreen</source>
-        <translation>Ocultar barra de estado se em ecrã completo</translation>
+        <translation>Ocultar barra de estado se em tela cheia</translation>
     </message>
 </context>
 </TS>
